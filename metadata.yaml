@@ -1,5 +1,8 @@
 _repo: Wilhelms-I-Briefe-an-seinen-Vater-Konig-Friedrich-Wilhelm-III-1827-1839_55193
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55193-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilhelm I.
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '48220'
     url: http://www.gutenberg.org/2009/agents/48220
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55193#Wilhelms-I-Briefe-an-seinen-Vater-Konig-Friedrich-Wilhelm-III-1827-1839
 gutenberg_issued: '2017-07-24'
 gutenberg_type: Text
 identifiers:
